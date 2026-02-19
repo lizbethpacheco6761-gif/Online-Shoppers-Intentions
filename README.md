@@ -62,5 +62,8 @@ Based on the confusion matrix, the logistic regression model performed well at i
 The model achieved an accuracy of **88%** but showed lower recall for purchasing sessions, indicating difficulty identifying all purchases due to class imbalance.
 
 
-
+## **Conclusion**
+This final project used logistic regression to predict whether an online shopping session would end with a purchase using the **Online Shoppers Purchasing Intention** dataset from UCI's Machine Learning Repository.  Exploratory analysis showed that features like visitor type did influence purchasing behavior, with returning customers being more likely to make a purchase.  
+The logistic model achieved an accuracy score of **88%**, indicating that it was effective at identifying patterns in online shopping behaviors.  But there was a lower recall score for the purchasing sessions due to the class imbalance within the dataset.  
+Overall, this project demonstrates how machine learning can be used to better understand online customer behavior while also highlighting opportunities for improving model performance.
 
