@@ -55,6 +55,7 @@ Since logistic regression was used for this classification task, the model was e
 
 Based on the confusion matrix, the logistic regression model performed well at identifying sessions that did not result in a purchase, which can be due to the class imbalance. The model did struggle to correctly identify all of the sessions that did end in a purchase as reflected by the high number of false negatives.
 
+
 **Classification Report**
 <img width="497" height="173" alt="image" src="https://github.com/user-attachments/assets/a1dc1387-cb9b-4a09-9081-742d9af4e2b1" />
 
