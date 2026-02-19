@@ -43,6 +43,17 @@ The training data consists of 9,864 sessions with 26 features.
 
 ## **Model Implementation**
 
-For the model implementation, logistic regression was selected because the problem is a binary classification task. The model provides a strong baseline for predicting whether visitors would complete an online shopping transaction.
+For the model implementation, **logistic regression** was selected because the problem is a binary classification task. The model provides a strong baseline for predicting whether visitors would complete an online shopping transaction.
 <img width="523" height="297" alt="image" src="https://github.com/user-attachments/assets/f277ca82-7bd1-4df1-8936-3a91d69e8b6e" />
+
+## **Model Evaluation**
+
+Since logistic regression was used for this classification task, the model was evaluated using a confusion matrix along with accuracy and F1 score to better assess its performance.
+
+**Confusion Matrix**
+<img width="637" height="508" alt="image" src="https://github.com/user-attachments/assets/a3d4ddbe-00a1-43f1-80da-9d3acd4e7173" />
+
+Based on the confusion matrix, the logistic regression model performed well at identifying sessions that did not result in a purchase, which can be due to the class imbalance. The model did struggle to correctly identify all of the sessions that did end in a purchase as reflected by the high number of false negatives.
+
+
 
