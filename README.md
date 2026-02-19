@@ -24,3 +24,8 @@ After importing and reviewing the dataset, the next step is to complete an EDA. 
 
 There is a class imbalance in the dataset, most sessions do not result in a purchase.
 
+<img width="687" height="507" alt="image" src="https://github.com/user-attachments/assets/d0355b3d-d25d-4c57-ac50-3fa49af60d0e" />
+
+The plot above shows that returing customers are more likely to make a purchase when visiting the site.
+
+
