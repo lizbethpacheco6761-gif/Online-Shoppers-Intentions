@@ -41,3 +41,8 @@ Before building the machine learning model, preprocessing steps were applied to 
 
 The training data consists of 9,864 sessions with 26 features.
 
+## **Model Implementation**
+
+For the model implementation, logistic regression was selected because the problem is a binary classification task. The model provides a strong baseline for predicting whether visitors would complete an online shopping transaction.
+<img width="523" height="297" alt="image" src="https://github.com/user-attachments/assets/f277ca82-7bd1-4df1-8936-3a91d69e8b6e" />
+
