@@ -29,3 +29,15 @@ There is a class imbalance in the dataset, most sessions do not result in a purc
 The plot above shows that returing customers are more likely to make a purchase when visiting the site.
 
 
+## **Preprocessing**
+
+Before building the machine learning models, preprocessing steps will be applied to prepare the data for analysis. These following steps will ensure features are properly formatted and scaled for the modeling.
+
+- Selected categorical & numerical variables.
+- Encoded categorical variables.
+- Defined target variable & features.
+- Create an 80/20 train-test split.
+- Scaled numerical features.
+
+The training data consists of 9,864 sessions with 26 features.
+
