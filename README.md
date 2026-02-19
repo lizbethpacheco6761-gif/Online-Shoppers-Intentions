@@ -6,7 +6,7 @@ As an avid online shopper, it is interesting to me to see what influences a tran
 Here is the link to the UCI's website where the dataset is from: https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
 
 
-#**Introduction**
+**Introduction**
 
 For my final project, I decided to use the Online Shoppers Purchasing Intention Dataset from UCI's Machine Learning Repository. The dataset shows customer behaivor during online shopping sessions including visit timing, whether the visitor is new or returning, and how long each session lasts. Each session is labeled as true or false depending if there was a purchase made.
 
