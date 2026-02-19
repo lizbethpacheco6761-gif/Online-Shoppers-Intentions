@@ -19,3 +19,7 @@ In this project, I will focus on the following questions:
 ## **Exploratory Data Analysis**
 
 After importing and reviewing the dataset, the next step is to complete an EDA. The Online Shoppers Purchasing Intention dataset contains over 12,000 online shopping sessions with a mix of numerical and categorical features. The dataset includes information such as page visits, time spent on pages, visitor type, bounce rates, and page values. The target variable, Revenue, indicates whether a session resulted in a purchase. There are no missing values in the dataset.
+
+<img width="692" height="523" alt="image" src="https://github.com/user-attachments/assets/dad557fc-43a2-4a28-a726-eb2214f97720" />
+There is a class imbalance in the dataset, most sessions do not result in a purchase.
+
