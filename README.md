@@ -31,7 +31,7 @@ The plot above shows that returing customers are more likely to make a purchase 
 
 ## **Preprocessing**
 
-Before building the machine learning models, preprocessing steps will be applied to prepare the data for analysis. These following steps will ensure features are properly formatted and scaled for the modeling.
+Before building the machine learning model, preprocessing steps were applied to prepare the data for the analysis. The following steps ensures features were properly formatted and scaled for the modeling.
 
 - Selected categorical & numerical variables.
 - Encoded categorical variables.
